@@ -1,4 +1,7 @@
 # Case_Study_Cadre
+![](https://cadre.com/)
+
+
 ### This is a fintech industry case study with the real estate company, Cadre.
 
 ## Overview and Origin
