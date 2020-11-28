@@ -1,4 +1,4 @@
-# Case_Study_Cadre
+# Cadre In-Depth
 ![](https://cdn.cadre.com/assets/img/public/cadre-logo-black-600x600.png)
 
 
