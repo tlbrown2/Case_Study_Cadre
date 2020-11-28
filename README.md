@@ -2,13 +2,12 @@
 ![](https://cdn.cadre.com/assets/img/public/cadre-logo-black-600x600.png)
 
 
-* This is a fintech industry case study with the real estate company, Cadre. *
+* This is a fintech industry case study with the real estate company, Cadre. 
 
-## Overview and Origin
+## About Cadre
 
-* Name of company
-
-* When was the company incorporated?
+* Cadre is an online marketplace that connects investors and operators of real estate; as noted by [Crunchbase][1].
+[1]: https://www.crunchbase.com/organization/cadre-2 "Crunchbase"
 
 * Who are the founders of the company?
 
