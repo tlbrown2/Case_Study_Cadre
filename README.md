@@ -6,14 +6,13 @@
 
 ## About Cadre
 
-* Cadre is an online marketplace that connects investors and operators of real estate; as noted by [Crunchbase][1].
-[1]: https://www.crunchbase.com/organization/cadre-2 "Crunchbase"
+* Cadre is an online marketplace that connects investors and operators of real estate; as noted by [Crunchbase][1]. It enables investments and transactions, provides a sophisticated technology product for managing processes, and powers predictive analytics for its investors. Investors are able to sell their interest on the secondary marketplace thereby introducing liquidityinto an antiquated industry. They are able to gain transparency, efficiency, and liquidity through the use of its proprietary technology, and are able to make better, more data-driven decisions.   
+* Founded by Ryan Williams, and Josh and Jared Kushner, Cadre was launched in 2014.   
 
-* Who are the founders of the company?
+* More on their market selection & investment methodology can be found on [Cadre's Website][2].
 
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+[1]: https://www.crunchbase.com/organization/cadre-2
+[2]: https://cadre.com/insights/challenge-of-market-selection-cadre-approach
 
 
 ## Business Activities:
