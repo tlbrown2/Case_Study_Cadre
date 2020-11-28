@@ -7,17 +7,24 @@
 ## About Cadre
 
 * Cadre is an online marketplace that connects investors and operators of real estate; as noted by [Crunchbase][1]. It enables investments and transactions, provides a sophisticated technology product for managing processes, and powers predictive analytics for its investors. Investors are able to sell their interest on the secondary marketplace thereby introducing liquidityinto an antiquated industry. They are able to gain transparency, efficiency, and liquidity through the use of its proprietary technology, and are able to make better, more data-driven decisions.   
-* Founded by Ryan Williams, and Josh and Jared Kushner, Cadre was launched in 2014.   
+* Founded by Ryan Williams, and Josh and Jared Kushner, Cadre was launched in 2014.  
+* Number of Investors (Crunchbase): [16][3].  
+* I found some of Cadre's competitors on [Craft][4].   
 
 * More on their market selection & investment methodology can be found on [Cadre's Website][2].
 
 [1]: https://www.crunchbase.com/organization/cadre-2
 [2]: https://cadre.com/insights/challenge-of-market-selection-cadre-approach
+[3]: https://www.crunchbase.com/organization/cadre-2/company_financials
+[4]: https://craft.co/cadre/competitors
 
 
 ## Business Activities:
+![](https://cadre.com/insights/content/images/size/w2000/2020/09/Market-Selection-0.PNG)
 
-* What specific financial problem is the company or project trying to solve?
+* The existance of Cadre is based on providing data-driven analysis in order to help investors make real-estate investments with the best return. They also help investors to earn high interest on their money with a new investment program ([similar to banks][5]).
+
+[5]: https://cadre.com/cash
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
