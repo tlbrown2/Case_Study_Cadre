@@ -26,7 +26,16 @@
 
 [5]: https://cadre.com/cash
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+## Who would want to do business with Cadre??    
+
+
+
+* [Fool.com][6] says if Cadre's minimum investment of $50,000 is within your reach, and you're looking for deals that are generally structured to take five or more years before the full return of capital, Cadre is one of the top platforms to consider.    
+* In roughly five years of existence, 31 deals have been transacted on Cadre at this writing. Of those, only four have completed so far: one that fully realized, while the other three were opportunistically sold early. All four deals earned investors a profit and outperformed their original targets, according to Cadre.
+
+[6]: https://www.fool.com/millionacres/real-estate-investing/crowdfunding/cadre-commercial-real-estate-crowdfunding-review/
+
+
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
