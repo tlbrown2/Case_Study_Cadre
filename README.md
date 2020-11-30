@@ -28,43 +28,78 @@
 
 ## Who would want to do business with Cadre??    
 
-
+![](https://m.foolcdn.com/media/millionacres/images/cadre_browse.width-800.png)   
 
 * [Fool.com][6] says if Cadre's minimum investment of $50,000 is within your reach, and you're looking for deals that are generally structured to take five or more years before the full return of capital, Cadre is one of the top platforms to consider.    
 * In roughly five years of existence, 31 deals have been transacted on Cadre at this writing. Of those, only four have completed so far: one that fully realized, while the other three were opportunistically sold early. All four deals earned investors a profit and outperformed their original targets, according to Cadre.
 
 [6]: https://www.fool.com/millionacres/real-estate-investing/crowdfunding/cadre-commercial-real-estate-crowdfunding-review/
 
+### What Cadre can do for its customers:
+![](https://cadre.com/insights/content/images/2020/09/Market-Selection-3.PNG)
 
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+![](https://cadre.com/insights/content/images/2020/09/Market-Selection-4.PNG)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+![](https://cadre.com/insights/content/images/2020/09/Market-Selection-2.PNG)
 
 
-## Landscape:
+## Fintech in Real Estate:
 
-* What domain of the financial industry is the company in?
+![](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_750/https://www.fintechnews.org/wp-content/uploads/2020/09/1.jpg)
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* [Fintech News][7] says that the future of real estate is in CrowdFunding. What is crowdfunding? It’s when you do not buy an entire house for 10 million dollars, but become one of many co-owners and receive your percentage proportional to your investment.
 
-* What are the other major companies in this domain?
+* Crowdfunding in real estate is new business area, so it does not have a single work scenario. On the one hand, this is a big disadvantage – there are too many unpredictable moments which makes it difficult to navigate for a beginner. On the other hand, there is a variety of platforms. It is easier for someone to give money and get only profit, for someone it is important to understand the whole process in detail and be aware of what is happening. Someone is ready to immediately invest 25,000 dollars, while others only 500.   
 
-## Results
+[7]: https://www.fintechnews.org/the-future-of-real-estate-a-crowdfunding-revolution/
 
-* What has been the business impact of this company so far?
+For the minimum investment that Cadre requires, it would be smart to go into investments with crowdfunding. Teams of investors would be able to move much more quickly with purchasing properties and earning their returns based upon their invested shares.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+**[Global Fintech Series][8] says real estate is one such sector that is deeply connected with the financial services industry. As a result, the recent developments of Fintech in the financial services industry have made a profound impact on the real estate sector.
 
-* How is your company performing relative to competitors in the same domain?
+1. Facilitating Transaction – Financial Technology has been making the process of payments safer by creating tamper-proof records and also eliminating the need for a regulator.   
+2. Ease of Viewing - Fintech companies are making it easier to get an all-round view of the property with the help of AR and VR tools and tech. Moreover, investors can now also finalize agreements without being physically present with the help of blockchain-powered systems.   
+3. Data Analysis - Financial technology helps to not only create detailed records but also analyze them to determine the future prospects of the real estate industry.   
 
+[8]: https://globalfintechseries.com/how-is-fintech-redefining-real-estate/
+
+
+## How has Cadre grown since its inception?
+* [CNN][9] says that Cadre has lowered its minimum investment to $50K; down from $100K initially.   
+* The pool of investors has grown to over 25,000.    
+* Cadre has shifted focus to industrial facilities and apartment complex investment opportunities instead of retail space.
+
+[9]: https://www.cnn.com/2020/09/21/investing/real-estate-cadre-savings-account/index.html
 
 ## Recommendations
+![](https://ahmadsb.com/wp-content/uploads/2013/07/chi-carol-sente-crowdfunding-1871-20150302.jpeg)
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+### Crowdfunding
 
-* Why do you think that offering this product or service would benefit the company?
+1. With a $50,000 minimum investment, it would be much easier for groups of investors to cofund their investments (ie. 10 investors each provide $5K).    
+2. Grow the Cadre user base in order to invest in Cadre Cash.
 
-* What technologies would this additional product or service utilize?
+**Crowdfunding Technologies:** 
+1. [Fundrise][10]
+![](https://d10cq78zmnjvsx.cloudfront.net/interface/logo-hz-color.svg)
 
-* Why are these technologies appropriate for your solution?
+2. [Diversity Fund][11]
+![](https://cdn.nerdwallet.com/investing/logos/DiversyFundLogo.png)
 
+3. [Equity Multiple][12]
+![](https://cdn.nerdwallet.com/investing/logos/EquityMultiple_logo.png)
+
+4. [YieldStreet][13]
+![](https://cdn.nerdwallet.com/investing/logos/YSLogo.png)
+
+[10]: https://fundrise.com/
+[11]: https://diversyfund.com/?utm_source=www.google.com%2F
+[12]: https://www.equitymultiple.com/
+[13]: https://www.yieldstreet.com/raise-capital
+
+
+# My Thoughts
+* Cadre is an investor-friendly company. They are willing to really take drastic measures to keep investors happy and continuously investing. They seem to have a plan to help their customers grow their investments in any way.    
+* As far as beeing an employee, I would be on the fence. Cadre cut 25% of it's workforce based on the COVID scare in early 2020. CNN tells the story [here][9]. I would likely have a B2B contract for doing any work with this company.  
+
+* As they continue to diversify their investor base, this could be a solid firm to use for real estate analysis on investment decisions.
