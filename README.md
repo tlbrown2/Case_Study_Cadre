@@ -55,7 +55,7 @@
 
 For the minimum investment that Cadre requires, it would be smart to go into investments with crowdfunding. Teams of investors would be able to move much more quickly with purchasing properties and earning their returns based upon their invested shares.
 
-**[Global Fintech Series][8] says real estate is one such sector that is deeply connected with the financial services industry. As a result, the recent developments of Fintech in the financial services industry have made a profound impact on the real estate sector.
+**[Global Fintech Series][8] says real estate is one such sector that is deeply connected with the financial services industry. As a result, the recent developments of Fintech in the financial services industry have made a profound impact on the real estate sector.**
 
 1. Facilitating Transaction – Financial Technology has been making the process of payments safer by creating tamper-proof records and also eliminating the need for a regulator.   
 2. Ease of Viewing - Fintech companies are making it easier to get an all-round view of the property with the help of AR and VR tools and tech. Moreover, investors can now also finalize agreements without being physically present with the help of blockchain-powered systems.   
@@ -99,7 +99,7 @@ For the minimum investment that Cadre requires, it would be smart to go into inv
 
 
 # My Thoughts
-* *Cadre is an investor-friendly company. They are willing to really take drastic measures to keep investors happy and continuously investing. They seem to have a plan to help their customers grow their investments in any way.    
-* *As far as beeing an employee, I would be on the fence. Cadre cut 25% of it's workforce based on the COVID scare in early 2020. CNN tells the story [here][9]. I would likely have a B2B contract for doing any work with this company.  
+* *Cadre is an investor-friendly company. They are willing to really take drastic measures to keep investors happy and continuously investing. They seem to have a plan to help their customers grow their investments in any way.*   
+* *As far as beeing an employee, I would be on the fence. Cadre cut 25% of it's workforce based on the COVID scare in early 2020. CNN tells the story [here][9]. I would likely have a B2B contract for doing any work with this company.*  
 
-* *As they continue to diversify their investor base, this could be a solid firm to use for real estate analysis on investment decisions.
+* *As they continue to diversify their investor base, this could be a solid firm to use for real estate analysis on investment decisions.*
