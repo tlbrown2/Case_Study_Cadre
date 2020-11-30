@@ -80,17 +80,17 @@ For the minimum investment that Cadre requires, it would be smart to go into inv
 2. Grow the Cadre user base in order to invest in Cadre Cash.
 
 **Crowdfunding Technologies:** 
-1. [Fundrise][10]
-![](https://d10cq78zmnjvsx.cloudfront.net/interface/logo-hz-color.svg)
+1. [Fundrise][10]   
+![](https://d10cq78zmnjvsx.cloudfront.net/interface/logo-hz-color.svg)   
 
-2. [Diversity Fund][11]
-![](https://cdn.nerdwallet.com/investing/logos/DiversyFundLogo.png)
+2. [Diversity Fund][11]   
+![](https://cdn.nerdwallet.com/investing/logos/DiversyFundLogo.png)   
 
-3. [Equity Multiple][12]
-![](https://cdn.nerdwallet.com/investing/logos/EquityMultiple_logo.png)
+3. [Equity Multiple][12]   
+![](https://cdn.nerdwallet.com/investing/logos/EquityMultiple_logo.png)   
 
-4. [YieldStreet][13]
-![](https://cdn.nerdwallet.com/investing/logos/YSLogo.png)
+4. [YieldStreet][13]   
+![](https://cdn.nerdwallet.com/investing/logos/YSLogo.png)   
 
 [10]: https://fundrise.com/
 [11]: https://diversyfund.com/?utm_source=www.google.com%2F
@@ -99,7 +99,7 @@ For the minimum investment that Cadre requires, it would be smart to go into inv
 
 
 # My Thoughts
-* Cadre is an investor-friendly company. They are willing to really take drastic measures to keep investors happy and continuously investing. They seem to have a plan to help their customers grow their investments in any way.    
-* As far as beeing an employee, I would be on the fence. Cadre cut 25% of it's workforce based on the COVID scare in early 2020. CNN tells the story [here][9]. I would likely have a B2B contract for doing any work with this company.  
+* *Cadre is an investor-friendly company. They are willing to really take drastic measures to keep investors happy and continuously investing. They seem to have a plan to help their customers grow their investments in any way.    
+* *As far as beeing an employee, I would be on the fence. Cadre cut 25% of it's workforce based on the COVID scare in early 2020. CNN tells the story [here][9]. I would likely have a B2B contract for doing any work with this company.  
 
-* As they continue to diversify their investor base, this could be a solid firm to use for real estate analysis on investment decisions.
+* *As they continue to diversify their investor base, this could be a solid firm to use for real estate analysis on investment decisions.
