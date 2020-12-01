@@ -74,7 +74,7 @@ For the minimum investment that Cadre requires, it would be smart to go into inv
 ## Recommendations
 ![](https://ahmadsb.com/wp-content/uploads/2013/07/chi-carol-sente-crowdfunding-1871-20150302.jpeg)
 
-###  <span style="color:green">Crowdfunding</span>
+###  I would add Crowdfunding!!
 
 1. With a $50,000 minimum investment, it would be much easier for groups of investors to cofund their investments (ie. 10 investors each provide $5K).    
 2. Grow the Cadre user base in order to invest in Cadre Cash.
@@ -98,8 +98,15 @@ For the minimum investment that Cadre requires, it would be smart to go into inv
 [13]: https://www.yieldstreet.com/raise-capital
 
 
-# My Thoughts
-* *<span style="color:green">Cadre is an investor-friendly company. They are willing to really take drastic measures to keep investors happy and continuously investing. They seem to have a plan to help their customers grow their investments in any way.*   
-* *As far as beeing an employee, I would be on the fence. Cadre cut 25% of it's workforce based on the COVID scare in early 2020. CNN tells the story [here][9]. I would likely have a B2B contract for doing any work with this company.</span>*  
+# My Thoughts   
+
+* *Cadre is an investor-friendly company. They are willing to really take drastic measures to keep investors happy and continuously investing. They seem to have a plan to help their customers grow their investments in any way.*   
+* *Cadre is cleaning up some federal conflict of interest issues (dealing with investor Jared Kushner), as reported by the [NY Times][14] & [Mother Jones][15]. They are looking to invest in distressed hotel properties & manufactoring facilities. The plan seems to be solid given the economic environment.
+* *As far as beeing an employee, I would be on the fence. Cadre cut 25% of it's workforce based on the COVID scare in early 2020. CNN tells the story [here][9]. I would likely have a B2B contract for doing any work with this company.*  
 
 * *As they continue to diversify their investor base, this could be a solid firm to use for real estate analysis on investment decisions.*
+
+## My Verdict: I would maybe be an investor with this company. As far as employment, I think that the environment may be a little too volitale. I would have to do technical work via a Corp-Corp contract aggreement.
+
+[14]: https://www.nytimes.com/2020/03/05/us/politics/jared-kushner-cadre.html
+[15]: https://www.motherjones.com/politics/2020/10/a-real-estate-firm-co-owned-by-jared-kushner-is-looking-to-profit-from-the-pandemic/
