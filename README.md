@@ -74,7 +74,7 @@ For the minimum investment that Cadre requires, it would be smart to go into inv
 ## Recommendations
 ![](https://ahmadsb.com/wp-content/uploads/2013/07/chi-carol-sente-crowdfunding-1871-20150302.jpeg)
 
-### Crowdfunding
+###  <span style="color:green">Crowdfunding</span>
 
 1. With a $50,000 minimum investment, it would be much easier for groups of investors to cofund their investments (ie. 10 investors each provide $5K).    
 2. Grow the Cadre user base in order to invest in Cadre Cash.
@@ -99,7 +99,7 @@ For the minimum investment that Cadre requires, it would be smart to go into inv
 
 
 # My Thoughts
-* *Cadre is an investor-friendly company. They are willing to really take drastic measures to keep investors happy and continuously investing. They seem to have a plan to help their customers grow their investments in any way.*   
-* *As far as beeing an employee, I would be on the fence. Cadre cut 25% of it's workforce based on the COVID scare in early 2020. CNN tells the story [here][9]. I would likely have a B2B contract for doing any work with this company.*  
+* *<span style="color:green">Cadre is an investor-friendly company. They are willing to really take drastic measures to keep investors happy and continuously investing. They seem to have a plan to help their customers grow their investments in any way.*   
+* *As far as beeing an employee, I would be on the fence. Cadre cut 25% of it's workforce based on the COVID scare in early 2020. CNN tells the story [here][9]. I would likely have a B2B contract for doing any work with this company.</span>*  
 
 * *As they continue to diversify their investor base, this could be a solid firm to use for real estate analysis on investment decisions.*
